@@ -26,17 +26,17 @@ const gardi9 = new Discord.Client();
 const gardi10 = new Discord.Client();
 const gardi11 = new Discord.Client();
 
-gardi.login("NzYwNTg0ODI1NDYyNzE4NDc3.X3ON3w.px6s6oowxZq8ysk78b6ryfqW7iU")
-gardi2.login("NzYwNTg4Njc1NTY5NTQ5MzIy.X3OP7g.d2IhgUAkKTE97CDlMtNRkJwmEIE")
-gardi3.login("NzYwNTg5NDc4MDk5ODEyMzYy.X3OQ3g.V_3MEqA3IQhwy9euytDMrjZy6t4")
-gardi4.login("NzYwNTkwMzI2MTcwOTEwNzMw.X3OR0g.4sUiBLdMEma9k8q3S8Y3StuvztY")
-gardi5.login("NzYwNTkxMzYyMDIxNzg1NjMw.X3OSrA.ivqmrnbUjVslnOitiO2xvnLa7A4")
-gardi6.login("NzYwOTQxOTUwNjIyMTA1NjUy.X3TY6Q.4XkzF5hBJm7vjr-o_68ZRYFXtfM")
-gardi7.login("NzYwOTQyNjA2NjAyNjAwNDg4.X3TZtQ.tqcCS3we9DUkd7OGKQSrLI9Wz0g")
-gardi8.login("NzYwOTQzNTYzNTU4NDg2MDQ2.X3TacQ.zQrrJA_n7X9p_5HFZ-XGn4xpFsA")
-gardi9.login("NzYxMDk2NTI4NjYzOTM3MDM2.X3VpIg.cbzkY9MKL536KO0t0OH6DjtnizY")
-gardi10.login("NzYxMDk3MjU3NTc1MTIwOTA2.X3VpsQ.nTtkbzL1gEJYOuIP68AfEe6IKVQ")
-gardi11.login("NzYxMDk4MDg5Mjc1NTg4NjU5.X3VqiQ.b_7MvIdfI9d9_c2t-9-Sw0ANzJk")
+gardi.login("")
+gardi2.login("")
+gardi3.login("")
+gardi4.login("")
+gardi5.login("")
+gardi6.login("")
+gardi7.login("")
+gardi8.login("")
+gardi9.login("")
+gardi10.login("")
+gardi11.login("")
 
 
 /////
